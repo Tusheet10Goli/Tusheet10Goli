@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tusheet10Goli
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning
+- 👀 I’m interested in API design, AI, and Machine Learning
+- 🌱 I’m currently a MSCS student at Georgia Tech
+- 💞️ I’m looking to collaborate on big data analytics projects
 - 📫 How to reach me tgoli3@gatech.edu
 
 <!---
